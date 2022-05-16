@@ -1,2 +1,2 @@
 # exercise-js-numbers
-Exercício de funções aplicadas em números com JavaScript.
+Exercício utilizando números com JavaScript.
